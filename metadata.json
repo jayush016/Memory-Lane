@@ -1,0 +1,8 @@
+{
+  "name": "Memory Lane",
+  "description": "A warm and accessible platform for seniors to share and explore life stories and family history.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
